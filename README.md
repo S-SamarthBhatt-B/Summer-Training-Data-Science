@@ -36,7 +36,7 @@ Exploratory Data Analysis on the US Presidential Elections dataset (1976–2020)
 
 ---
 ### Project 4 — Tech Workers & Mental Health Analysis
-**Folder:** `Project-4/`
+**Folder:** `Tech Workers & Mental Health/`
 
 An end-to-end Business Intelligence and Data Analytics project that analyzes mental health trends among employees in the technology industry. The project includes data cleaning and preprocessing using Python, exporting the cleaned dataset to Excel, and developing an interactive Power BI dashboard to visualize treatment patterns, demographic insights, workplace factors, and key business metrics.
 
