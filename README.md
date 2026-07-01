@@ -35,7 +35,22 @@ Exploratory Data Analysis on the US Presidential Elections dataset (1976–2020)
 **File:** `EDA_Project_1.ipynb`
 
 ---
+### Project 4 — Tech Workers & Mental Health Analysis
+**Folder:** `Project-4/`
 
+An end-to-end Business Intelligence and Data Analytics project that analyzes mental health trends among employees in the technology industry. The project includes data cleaning and preprocessing using Python, exporting the cleaned dataset to Excel, and developing an interactive Power BI dashboard to visualize treatment patterns, demographic insights, workplace factors, and key business metrics.
+
+**Tools & Libraries:** Python, Pandas, NumPy, Microsoft Excel, Microsoft Power BI, Power Query, DAX
+
+**Files:**
+- `survey.csv` *(Raw Dataset)*
+- `Tech_Workers_&_Mental_Health.ipynb` *(Data Cleaning & Preprocessing)*
+- `mental_health_cleaned.xlsx` *(Cleaned Dataset)*
+- `Tech Workers & Mental Health.pbix` *(Power BI Dashboard)*
+- `Tech Workers & Mental Health.docx` *(Project Report)*
+- `Tech Workers & Mental Health.pptx` *(Project Presentation)*
+
+---
 ## 🛠️ Tech Stack
 
 - Python (Pandas, Matplotlib, Seaborn)
